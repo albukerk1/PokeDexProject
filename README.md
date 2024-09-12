@@ -1,7 +1,7 @@
-#Pokédex Project
+# Pokédex Project
 Projeto de Pokédex para listar pokémons e visualizar detalhes. Explore a lista de Pokémons e clique para visualizar seus detalhes.
 
-##Como iniciar a aplicação
+## Como iniciar a aplicação
 1. **Instalar dependências:**
    Na pasta raiz, execute o comando:
    ```bash
@@ -18,7 +18,7 @@ Projeto de Pokédex para listar pokémons e visualizar detalhes. Explore a lista
    ```
    https://localhost:3000/
    ```
-##Tecnologias implementadas:
+## Tecnologias implementadas:
 - **Node.js:** Ambiente de execução JavaScript server-side.
 - **Express.js:** Framework para web app do Node.js.
 - **PokeAPI:** API escolhida para obter dados dos Pokémons listados.
